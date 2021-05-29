@@ -1,0 +1,107 @@
+body {
+	font-family: 'Lilita One';
+	font: 14px;
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.9);
+}
+
+.cf_reload_button {
+	display: inline-block;
+    font-weight: 400;
+	color: #f8f9fa;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+	font-size: 26px;
+	background-color: #3E4551;
+	text-decoration: none !important;
+}
+
+.cf_reload_button:focus, .cf_reload_button:hover {
+    color: #cbd3da!important
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+}
+
+@media (min-width:576px) {
+    .container {
+        max-width: 540px
+    }
+}
+
+@media (min-width:768px) {
+    .container {
+        max-width: 720px
+    }
+}
+
+@media (min-width:992px) {
+    .container {
+        max-width: 960px
+    }
+}
+
+@media (min-width:1200px) {
+    .container {
+        max-width: 1140px
+	}
+}
+
+.always_online h1 {
+	padding-top: 50px;
+	margin-bottom: 2px;
+}
+
+.always_online p {
+	color: #bbbbbb;
+}
+
+.always_online ul li {
+	color: #bbbbbb;
+}
+
+.opacity {
+	opacity: 1;
+	transition: opacity .2s ease-in-out;
+	-moz-transition: opacity .2s ease-in-out;
+	-webkit-transition: opacity .2s ease-in-out;
+}
+
+.opacity:hover {
+	opacity: 0.65;
+}
+
+.text-hpw {
+	color: rgb(220, 220, 220);
+}
+
+.text-hp0 {
+	color: rgb(200, 200, 200);
+}
+
+.text-hp {
+	color: #bbbbbb;
+}
+
+.text-hp2 {
+	color: #a5a5a5;
+}
+
+.text-hp3 {
+	color: #858585;
+}

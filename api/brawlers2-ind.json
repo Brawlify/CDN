@@ -1,0 +1,82 @@
+{
+    "!READ_IMPORTANT!": "This is an example response, do not request this in your app! Request https://api.brawlify.com/ endpoints!",
+    "status": "ok",
+    "id": 16000000,
+    "avatarId": 28000003,
+    "name": "Shelly",
+    "hash": "Shelly",
+    "path": "Shelly",
+    "released": true,
+    "version": 3,
+    "link": "https://brawlify.com/brawlers/detail/Shelly",
+    "imageUrl": "https://cdn.brawlify.com/brawler/Shelly.png?v=3",
+    "imageUrl2": "https://cdn.brawlify.com/brawler-bs/Shelly.png?v=3",
+    "imageUrl3": "https://cdn.brawlify.com/emoji/Shelly.png?v=3",
+    "class": {
+        "id": 1,
+        "name": "Fighter"
+    },
+    "rarity": {
+        "id": 1,
+        "name": "Trophy Road",
+        "color": "#b9eaff"
+    },
+    "unlock": 0,
+    "description": "Shelly's spread-fire shotgun blasts the other team with buckshot. Her Super destroys cover and keeps her opponents at a distance!",
+    "starPowers": [
+        {
+            "id": 23000076,
+            "name": "Shell Shock",
+            "path": "Shell-Shock",
+            "description": "Shelly's Super shells slow down enemies for 3.0 seconds!",
+            "imageUrl": "https://cdn.brawlify.com/star-powers/Shell-Shock.png?v=1",
+            "released": true
+        },
+        {
+            "id": 23000135,
+            "name": "Band-Aid",
+            "path": "Band-Aid",
+            "description": "When Shelly falls below 40% health, she instantly heals for 1800 health. Band-Aid recharges in 20.0 seconds.",
+            "imageUrl": "https://cdn.brawlify.com/star-powers/Band-Aid.png?v=1",
+            "released": true
+        }
+    ],
+    "gadgets": [
+        {
+            "id": 23000255,
+            "name": "Fast Forward",
+            "path": "Fast-Forward",
+            "description": "Shelly dashes ahead, skipping a few unnecessary steps!",
+            "imageUrl": "https://cdn.brawlify.com/gadgets/Fast-Forward.png?v=1",
+            "released": true
+        },
+        {
+            "id": 23000288,
+            "name": "Clay Pigeons",
+            "path": "Clay-Pigeons",
+            "description": "On activation, Shelly's next main attack focuses the fire to a smaller area and increases the range.",
+            "imageUrl": "https://cdn.brawlify.com/gadgets/Clay-Pigeons.png?v=1",
+            "released": false
+        }
+    ],
+    "videos": [
+        {
+            "type": 0,
+            "name": "Shelly's Main Attack",
+            "description": "Check out how Shelly attacks.",
+            "duration": "PT2S",
+            "videoUrl": "https://cdn.brawlify.com/videos/Shelly-Main-Attack.mp4?v=1",
+            "previewUrl": "https://cdn.brawlify.com/videos/preview/Shelly-Main-Attack.jpg",
+            "uploadDate": "2019-11-04"
+        },
+        {
+            "type": 1,
+            "name": "Shelly's Super Attack",
+            "description": "Check out how Shelly uses the Super.",
+            "duration": "PT3S",
+            "videoUrl": "https://cdn.brawlify.com/videos/Shelly-Super.mp4?v=1",
+            "previewUrl": "https://cdn.brawlify.com/videos/preview/Shelly-Super.jpg",
+            "uploadDate": "2019-11-04"
+        }
+    ]
+}

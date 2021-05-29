@@ -1,0 +1,8 @@
+"Name","Mode","IncludedCampaigns","SectionTitleTID","LastChanceSectionSeparately","LastChanceSectionTID"
+"String","int","String","String","Boolean","String"
+"Brawlidays",1,"BRAWLIDAYS","TID_SHOP_BRAWLIDAYS_SKINS","FALSE","TID_SHOP_LAST_CHANCE_SKINS"
+,,"BRAWLIDAYS_2018",,,
+"LunarBrawl",2,"LNY_2019","TID_SHOP_LUNAR_BRAWL_SKINS","FALSE","TID_SHOP_LAST_CHANCE_SKINS"
+,,"LNY_2020",,,
+,,"LNY_2021",,,
+"Brawloween",3,"BRAWLOWEEN","TID_SHOP_BRAWLOWEEN_SKINS","FALSE","TID_SHOP_LAST_CHANCE_SKINS"

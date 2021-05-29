@@ -1,0 +1,535 @@
+{
+    "status": "ok",
+    "map": {
+        "id": 15000004,
+        "new": false,
+        "disabled": false,
+        "name": "Snake Prairie",
+        "hash": "Snake-Prairie",
+        "version": 5,
+        "link": "https://brawlify.com/maps/detail/Snake-Prairie",
+        "imageUrl": "https://cdn.brawlify.com/map/Snake-Prairie.png?v=5",
+        "credit": null,
+        "environment": {
+            "id": 39,
+            "name": "Default",
+            "hash": "event_canyon_banner",
+            "path": "Canyon",
+            "version": 1,
+            "imageUrl": "https://cdn.brawlify.com/environment/Canyon.png?v=1"
+        },
+        "gameMode": {
+            "id": 1,
+            "name": "Bounty",
+            "hash": "Bounty",
+            "version": 1,
+            "color": "#10b2b7",
+            "link": "https://brawlify.com/gamemodes/detail/Bounty",
+            "imageUrl": "https://cdn.brawlify.com/gamemode/Bounty.png?v=1"
+        },
+        "lastActive": 1609509600,
+        "dataUpdated": 1609552213,
+        "stats": [
+            {
+                "brawler": 16000036,
+                "winRate": 64.993,
+                "useRate": 3.68536,
+                "starRate": 3.80677
+            },
+            {
+                "brawler": 16000017,
+                "winRate": 63.8389,
+                "useRate": 12.3746,
+                "starRate": 16.224
+            },
+            {
+                "brawler": 16000031,
+                "winRate": 63.5109,
+                "useRate": 1.70739,
+                "starRate": 1.66091
+            },
+            {
+                "brawler": 16000027,
+                "winRate": 62.3069,
+                "useRate": 0.68372,
+                "starRate": 0.705574
+            },
+            {
+                "brawler": 16000014,
+                "winRate": 61.6557,
+                "useRate": 19.1088,
+                "starRate": 21.1984
+            },
+            {
+                "brawler": 16000042,
+                "winRate": 61.2753,
+                "useRate": 0.393373,
+                "starRate": 0.245598
+            },
+            {
+                "brawler": 16000015,
+                "winRate": 59.9,
+                "useRate": 3.787,
+                "starRate": 3.82342
+            },
+            {
+                "brawler": 16000030,
+                "winRate": 59.7273,
+                "useRate": 2.21281,
+                "starRate": 3.41964
+            },
+            {
+                "brawler": 16000028,
+                "winRate": 56.9054,
+                "useRate": 0.572715,
+                "starRate": 0.682679
+            },
+            {
+                "brawler": 16000013,
+                "winRate": 56.0652,
+                "useRate": 1.9523,
+                "starRate": 2.01474
+            },
+            {
+                "brawler": 16000034,
+                "winRate": 55.8011,
+                "useRate": 1.59986,
+                "starRate": 2.26866
+            },
+            {
+                "brawler": 16000011,
+                "winRate": 55.6841,
+                "useRate": 2.14933,
+                "starRate": 1.70878
+            },
+            {
+                "brawler": 16000007,
+                "winRate": 54.4472,
+                "useRate": 1.85066,
+                "starRate": 1.66507
+            },
+            {
+                "brawler": 16000040,
+                "winRate": 54.4231,
+                "useRate": 0.332667,
+                "starRate": 0.237273
+            },
+            {
+                "brawler": 16000008,
+                "winRate": 54.2912,
+                "useRate": 2.00572,
+                "starRate": 1.99392
+            },
+            {
+                "brawler": 16000019,
+                "winRate": 54.0995,
+                "useRate": 1.11768,
+                "starRate": 0.867918
+            },
+            {
+                "brawler": 16000003,
+                "winRate": 54.0009,
+                "useRate": 1.56968,
+                "starRate": 0.884569
+            },
+            {
+                "brawler": 16000043,
+                "winRate": 53.639,
+                "useRate": 2.55935,
+                "starRate": 3.00545
+            },
+            {
+                "brawler": 16000037,
+                "winRate": 52.9557,
+                "useRate": 0.262942,
+                "starRate": 0.120718
+            },
+            {
+                "brawler": 16000000,
+                "winRate": 52.4368,
+                "useRate": 13.8437,
+                "starRate": 15.0606
+            },
+            {
+                "brawler": 16000016,
+                "winRate": 51.7303,
+                "useRate": 0.810681,
+                "starRate": 0.747201
+            },
+            {
+                "brawler": 16000021,
+                "winRate": 51.5544,
+                "useRate": 0.524497,
+                "starRate": 0.235191
+            },
+            {
+                "brawler": 16000004,
+                "winRate": 51.4306,
+                "useRate": 0.986901,
+                "starRate": 0.66811
+            },
+            {
+                "brawler": 16000012,
+                "winRate": 51.0309,
+                "useRate": 1.38895,
+                "starRate": 0.449569
+            },
+            {
+                "brawler": 16000022,
+                "winRate": 50.218,
+                "useRate": 1.05663,
+                "starRate": 0.366316
+            },
+            {
+                "brawler": 16000020,
+                "winRate": 49.8805,
+                "useRate": 0.95811,
+                "starRate": 1.1489
+            },
+            {
+                "brawler": 16000023,
+                "winRate": 49.6403,
+                "useRate": 0.830454,
+                "starRate": 0.566124
+            },
+            {
+                "brawler": 16000038,
+                "winRate": 49.6098,
+                "useRate": 1.27413,
+                "starRate": 0.857512
+            },
+            {
+                "brawler": 16000005,
+                "winRate": 49.2698,
+                "useRate": 1.1149,
+                "starRate": 0.817966
+            },
+            {
+                "brawler": 16000002,
+                "winRate": 48.6822,
+                "useRate": 4.52552,
+                "starRate": 4.04196
+            },
+            {
+                "brawler": 16000024,
+                "winRate": 48.5278,
+                "useRate": 2.01855,
+                "starRate": 2.29988
+            },
+            {
+                "brawler": 16000029,
+                "winRate": 48.4797,
+                "useRate": 0.900526,
+                "starRate": 0.487033
+            },
+            {
+                "brawler": 16000001,
+                "winRate": 48.2222,
+                "useRate": 2.4709,
+                "starRate": 1.95646
+            },
+            {
+                "brawler": 16000035,
+                "winRate": 48.2046,
+                "useRate": 0.616076,
+                "starRate": 0.322607
+            },
+            {
+                "brawler": 16000018,
+                "winRate": 47.9744,
+                "useRate": 1.33761,
+                "starRate": 0.888732
+            },
+            {
+                "brawler": 16000039,
+                "winRate": 47.2023,
+                "useRate": 0.474892,
+                "starRate": 0.299713
+            },
+            {
+                "brawler": 16000041,
+                "winRate": 46.9729,
+                "useRate": 0.302488,
+                "starRate": 0.0936602
+            },
+            {
+                "brawler": 16000009,
+                "winRate": 46.3031,
+                "useRate": 0.756567,
+                "starRate": 0.276818
+            },
+            {
+                "brawler": 16000032,
+                "winRate": 45.8256,
+                "useRate": 0.389557,
+                "starRate": 0.116555
+            },
+            {
+                "brawler": 16000025,
+                "winRate": 44.9153,
+                "useRate": 0.359378,
+                "starRate": 0.0957416
+            },
+            {
+                "brawler": 16000010,
+                "winRate": 44.2481,
+                "useRate": 1.91691,
+                "starRate": 1.22383
+            },
+            {
+                "brawler": 16000006,
+                "winRate": 43.2806,
+                "useRate": 0.385048,
+                "starRate": 0.0437081
+            },
+            {
+                "brawler": 16000026,
+                "winRate": 42.1536,
+                "useRate": 0.831148,
+                "starRate": 0.401698
+            }
+        ],
+        "teamStats": [
+            {
+                "name": "Bo, Gene & Max",
+                "hash": "Bo+Gene+Max",
+                "brawler1": 16000014,
+                "brawler2": 16000021,
+                "brawler3": 16000032,
+                "data": {
+                    "winRate": 100.0,
+                    "useRate": 0.05434,
+                    "wins": 352,
+                    "losses": 0,
+                    "draws": 0,
+                    "total": 352
+                }
+            },
+            {
+                "name": "Shelly, Lou & Edgar",
+                "hash": "Shelly+Lou+Edgar",
+                "brawler1": 16000000,
+                "brawler2": 16000041,
+                "brawler3": 16000043,
+                "data": {
+                    "winRate": 100.0,
+                    "useRate": 0.07905,
+                    "wins": 512,
+                    "losses": 0,
+                    "draws": 0,
+                    "total": 512
+                }
+            },
+            {
+                "name": "Bo, Nani & Amber",
+                "hash": "Bo+Nani+Amber",
+                "brawler1": 16000014,
+                "brawler2": 16000036,
+                "brawler3": 16000040,
+                "data": {
+                    "winRate": 99.79403,
+                    "useRate": 0.14991,
+                    "wins": 969,
+                    "losses": 2,
+                    "draws": 0,
+                    "total": 971
+                }
+            },
+            {
+                "name": "Bull, Bo & Gene",
+                "hash": "Bull+Bo+Gene",
+                "brawler1": 16000002,
+                "brawler2": 16000014,
+                "brawler3": 16000021,
+                "data": {
+                    "winRate": 98.78419,
+                    "useRate": 0.05079,
+                    "wins": 325,
+                    "losses": 4,
+                    "draws": 0,
+                    "total": 329
+                }
+            },
+            {
+                "name": "Lou, Byron & Edgar",
+                "hash": "Lou+Byron+Edgar",
+                "brawler1": 16000041,
+                "brawler2": 16000042,
+                "brawler3": 16000043,
+                "data": {
+                    "winRate": 98.62069,
+                    "useRate": 0.04477,
+                    "wins": 286,
+                    "losses": 4,
+                    "draws": 0,
+                    "total": 290
+                }
+            },
+            {
+                "name": "Bo, Mr. P & Edgar",
+                "hash": "Bo+Mr.P+Edgar",
+                "brawler1": 16000014,
+                "brawler2": 16000031,
+                "brawler3": 16000043,
+                "data": {
+                    "winRate": 95.39877,
+                    "useRate": 0.05033,
+                    "wins": 311,
+                    "losses": 15,
+                    "draws": 0,
+                    "total": 326
+                }
+            },
+            {
+                "name": "Bo, Gene & Nani",
+                "hash": "Bo+Gene+Nani",
+                "brawler1": 16000014,
+                "brawler2": 16000021,
+                "brawler3": 16000036,
+                "data": {
+                    "winRate": 93.22034,
+                    "useRate": 0.14574,
+                    "wins": 880,
+                    "losses": 64,
+                    "draws": 0,
+                    "total": 944
+                }
+            },
+            {
+                "name": "Brock, Bo & Piper",
+                "hash": "Brock+Bo+Piper",
+                "brawler1": 16000003,
+                "brawler2": 16000014,
+                "brawler3": 16000015,
+                "data": {
+                    "winRate": 86.37532,
+                    "useRate": 0.4204,
+                    "wins": 2352,
+                    "losses": 371,
+                    "draws": 0,
+                    "total": 2723
+                }
+            },
+            {
+                "name": "Bo, Piper & Nani",
+                "hash": "Bo+Piper+Nani",
+                "brawler1": 16000014,
+                "brawler2": 16000015,
+                "brawler3": 16000036,
+                "data": {
+                    "winRate": 81.60441,
+                    "useRate": 3.07929,
+                    "wins": 16276,
+                    "losses": 3669,
+                    "draws": 0,
+                    "total": 19945
+                }
+            },
+            {
+                "name": "Shelly, Tara & Frank",
+                "hash": "Shelly+Tara+Frank",
+                "brawler1": 16000000,
+                "brawler2": 16000017,
+                "brawler3": 16000020,
+                "data": {
+                    "winRate": 80.76923,
+                    "useRate": 0.04431,
+                    "wins": 231,
+                    "losses": 55,
+                    "draws": 1,
+                    "total": 287
+                }
+            },
+            {
+                "name": "Brock, Mortis & Bo",
+                "hash": "Brock+Mortis+Bo",
+                "brawler1": 16000003,
+                "brawler2": 16000011,
+                "brawler3": 16000014,
+                "data": {
+                    "winRate": 77.04918,
+                    "useRate": 0.08476,
+                    "wins": 423,
+                    "losses": 126,
+                    "draws": 0,
+                    "total": 549
+                }
+            },
+            {
+                "name": "Mortis, Bo & Gene",
+                "hash": "Mortis+Bo+Gene",
+                "brawler1": 16000011,
+                "brawler2": 16000014,
+                "brawler3": 16000021,
+                "data": {
+                    "winRate": 75.40984,
+                    "useRate": 0.07534,
+                    "wins": 368,
+                    "losses": 120,
+                    "draws": 0,
+                    "total": 488
+                }
+            },
+            {
+                "name": "Bo, Tara & Gene",
+                "hash": "Bo+Tara+Gene",
+                "brawler1": 16000014,
+                "brawler2": 16000017,
+                "brawler3": 16000021,
+                "data": {
+                    "winRate": 74.01478,
+                    "useRate": 0.75218,
+                    "wins": 3606,
+                    "losses": 1266,
+                    "draws": 0,
+                    "total": 4872
+                }
+            },
+            {
+                "name": "Bo, Piper & Mr. P",
+                "hash": "Bo+Piper+Mr.P",
+                "brawler1": 16000014,
+                "brawler2": 16000015,
+                "brawler3": 16000031,
+                "data": {
+                    "winRate": 73.64246,
+                    "useRate": 0.25304,
+                    "wins": 1207,
+                    "losses": 432,
+                    "draws": 0,
+                    "total": 1639
+                }
+            },
+            {
+                "name": "Bo, Tara & Nani",
+                "hash": "Bo+Tara+Nani",
+                "brawler1": 16000014,
+                "brawler2": 16000017,
+                "brawler3": 16000036,
+                "data": {
+                    "winRate": 73.42125,
+                    "useRate": 32.45224,
+                    "wins": 154330,
+                    "losses": 55868,
+                    "draws": 0,
+                    "total": 210198
+                }
+            },
+            {
+                "name": "Mortis, Bo & Nani",
+                "hash": "Mortis+Bo+Nani",
+                "brawler1": 16000011,
+                "brawler2": 16000014,
+                "brawler3": 16000036,
+                "data": {
+                    "winRate": 72.80437,
+                    "useRate": 2.20267,
+                    "wins": 10387,
+                    "losses": 3880,
+                    "draws": 0,
+                    "total": 14267
+                }
+            }
+        ]
+    }
+}
