@@ -211,6 +211,7 @@ function vmLogic() {
     (function(){
         var b1 = document.querySelectorAll("div.vm-b1");
         var b2 = document.querySelectorAll("div.vm-b2");
+        var b3 = document.querySelectorAll("div.vm-b3");
         for (var i = 0; i < b1.length; i++) {
             var vmb = document.createElement("div");vmb.setAttribute("class", "vm-placement");vmb.setAttribute('data-display-type', 'hybrid-banner');
             if(window.innerWidth>=970) vmb.setAttribute("data-id", "6017d58cfe24b76bfed2654b");
@@ -223,6 +224,13 @@ function vmLogic() {
             if (window.innerWidth>=970) vmb.setAttribute("data-id", "6017d96135df310fc2d5f190");
             else vmb.setAttribute("data-id", "6017d5c235df310fc2d5f18d");
             b2[i].appendChild(vmb);
+            window.top.__vm_add.push(vmb);
+        }
+        for (var i = 0; i < b1.length; i++) {
+            var vmb = document.createElement("div");vmb.setAttribute("class", "vm-placement");
+            if(window.innerWidth>=970) vmb.setAttribute("data-id", "6017d58cfe24b76bfed2654b");
+            else vmb.setAttribute("data-id", "6017d59bfe24b76bfed2654d");
+            b1[i].appendChild(vmb);
             window.top.__vm_add.push(vmb);
         }
     });
