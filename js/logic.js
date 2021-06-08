@@ -226,11 +226,11 @@ function vmLogic() {
             b2[i].appendChild(vmb);
             window.top.__vm_add.push(vmb);
         }
-        for (var i = 0; i < b1.length; i++) {
+        for (var i = 0; i < b3.length; i++) {
             var vmb = document.createElement("div");vmb.setAttribute("class", "vm-placement");
             if(window.innerWidth>=970) vmb.setAttribute("data-id", "6017d58cfe24b76bfed2654b");
             else vmb.setAttribute("data-id", "6017d59bfe24b76bfed2654d");
-            b1[i].appendChild(vmb);
+            b3[i].appendChild(vmb);
             window.top.__vm_add.push(vmb);
         }
     });
