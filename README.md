@@ -7,6 +7,7 @@ We encourage you to use our CDN if you need some files without downloading and u
 
 ## You must not break (with any Supercell file in this repository)
 [Supercell’s Terms of Service](https://supercell.com/en/terms-of-service/)
+
 [Supercell’s Fan Content Policy](https://supercell.com/en/fan-content-policy/)
 
 
