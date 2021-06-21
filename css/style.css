@@ -538,11 +538,35 @@ body {
 }
 
 .bg-g17 {
-	background: radial-gradient(ellipse at center, rgba(239, 159, 59, 1) 0%,rgba(35,35,35,1) 100%);
+	background: radial-gradient(ellipse at center, rgba(247, 131, 28, 1) 0%,rgba(35,35,35,1) 100%);
 }
 
 .font-m17 {
-	color:#ef9f3b;
+	color:#f7831c;
+}
+
+.bg-g18 {
+	background: radial-gradient(ellipse at center, rgba(255, 255, 255, 1) 0%,rgba(35,35,35,1) 100%);
+}
+
+.font-m18 {
+	color:#ffffff;
+}
+
+.bg-g19 {
+	background: radial-gradient(ellipse at center, rgba(255, 255, 255, 1) 0%,rgba(35,35,35,1) 100%);
+}
+
+.font-m19 {
+	color:#ffffff;
+}
+
+.bg-g20 {
+	background: radial-gradient(ellipse at center, rgba(255, 255, 255, 1) 0%,rgba(35,35,35,1) 100%);
+}
+
+.font-m20 {
+	color:#ffffff;
 }
 
 .bg-c-transparent {
@@ -3392,6 +3416,46 @@ form .form-custom, form .form-custom:focus {
 }
 
 .stat-rank50 {
+	background-color: rgba(255, 0, 0, .8) !important;
+}
+
+.font-rank51 {
+	color: #ff0000 !important;
+}
+
+.stat-rank51 {
+	background-color: rgba(255, 0, 0, .8) !important;
+}
+
+.font-rank52 {
+	color: #ff0000 !important;
+}
+
+.stat-rank52 {
+	background-color: rgba(255, 0, 0, .8) !important;
+}
+
+.font-rank53 {
+	color: #ff0000 !important;
+}
+
+.stat-rank53 {
+	background-color: rgba(255, 0, 0, .8) !important;
+}
+
+.font-rank54 {
+	color: #ff0000 !important;
+}
+
+.stat-rank54 {
+	background-color: rgba(255, 0, 0, .8) !important;
+}
+
+.font-rank55 {
+	color: #ff0000 !important;
+}
+
+.stat-rank55 {
 	background-color: rgba(255, 0, 0, .8) !important;
 }
 
