@@ -545,6 +545,10 @@ body {
 	color:#f7831c;
 }
 
+.bg-mode18 {
+	background-color: #7e3289;
+}
+
 .bg-g18 {
 	background: radial-gradient(ellipse at center, rgba(126, 50, 137, 1) 0%,rgba(35,35,35,1) 100%);
 }
@@ -553,12 +557,20 @@ body {
 	color:#7e3289;
 }
 
+.bg-mode19 {
+	background-color: #2873a1;
+}
+
 .bg-g19 {
 	background: radial-gradient(ellipse at center, rgba(40, 115, 161, 1) 0%,rgba(35,35,35,1) 100%);
 }
 
 .font-m19 {
 	color:#2873a1;
+}
+
+.bg-mode20 {
+	background-color: #b8fb26;
 }
 
 .bg-g20 {
