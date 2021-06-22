@@ -502,11 +502,11 @@ body {
 }
 
 .bg-g14 {
-	background: radial-gradient(ellipse at center, rgba(39, 190, 71, 1) 0%,rgba(35,35,35,1) 100%);
+	background: radial-gradient(ellipse at center, rgba(45, 136, 154, 1) 0%,rgba(35,35,35,1) 100%);
 }
 
 .font-m14 {
-	color:#27be47;
+	color:#2d889a;
 }
 
 .bg-mode15 {
@@ -546,27 +546,27 @@ body {
 }
 
 .bg-g18 {
-	background: radial-gradient(ellipse at center, rgba(255, 255, 255, 1) 0%,rgba(35,35,35,1) 100%);
+	background: radial-gradient(ellipse at center, rgba(126, 50, 137, 1) 0%,rgba(35,35,35,1) 100%);
 }
 
 .font-m18 {
-	color:#ffffff;
+	color:#7e3289;
 }
 
 .bg-g19 {
-	background: radial-gradient(ellipse at center, rgba(255, 255, 255, 1) 0%,rgba(35,35,35,1) 100%);
+	background: radial-gradient(ellipse at center, rgba(40, 115, 161, 1) 0%,rgba(35,35,35,1) 100%);
 }
 
 .font-m19 {
-	color:#ffffff;
+	color:#2873a1;
 }
 
 .bg-g20 {
-	background: radial-gradient(ellipse at center, rgba(255, 255, 255, 1) 0%,rgba(35,35,35,1) 100%);
+	background: radial-gradient(ellipse at center, rgba(184, 251, 38, 1) 0%,rgba(35,35,35,1) 100%);
 }
 
 .font-m20 {
-	color:#ffffff;
+	color:#b8fb26;
 }
 
 .bg-c-transparent {
