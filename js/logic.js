@@ -209,6 +209,11 @@ function vmLogic() {
     window.top.__vm_add = window.top.__vm_add || [];
     (function(success) {if(window.document.readyState !== "loading")success();else window.document.addEventListener("DOMContentLoaded",function(){success();});})
     (function(){
+        var placement = document.createElement("div");
+        placement.setAttribute("class", "vm-placement");
+        placement.setAttribute("data-id", "6017d56af3cede114f2df848");
+        document.querySelector("#rich-media-placement").appendChild(placement);
+        window.top.__vm_add.push(placement);
         var b1 = document.querySelectorAll("div.vm-b1");
         var b2 = document.querySelectorAll("div.vm-b2");
         var b3 = document.querySelectorAll("div.vm-b3");
