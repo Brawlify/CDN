@@ -15,11 +15,11 @@ It is best to use this CDN with [the official Brawl Stars API](https://developer
 *You are required to follow [Supercell’s Terms of Service](https://supercell.com/en/terms-of-service/) and [Supercell’s Fan Content Policy](https://supercell.com/en/fan-content-policy/).*
 
 ## Availability
-`/brawler/Shelly.png` -> [cdn.brawlify.com/brawler/Shelly.png](https://cdn.brawlify.com/brawler/Shelly.png)
+`/maps/regular/15000000.png` -> [cdn.brawlify.com/maps/regular/15000000.png](https://cdn.brawlify.com/maps/regular/15000000.png)
 
-`/gamemode/Gem-Grab.png` -> [cdn.brawlify.com/gamemode/Gem-Grab.png](https://cdn.brawlify.com/gamemode/Gem-Grab.png)
+`/brawlers/borders/16000000.png` -> [cdn.brawlify.com/brawlers/borders/16000000.png](https://cdn.brawlify.com/brawlers/borders/16000000.png)
 
-`/map/Assembly-Attack.png` -> [cdn.brawlify.com/map/Assembly-Attack.png](https://cdn.brawlify.com/map/Assembly-Attack.png)
+`/brawlers/borderless/16000000.png` -> [cdn.brawlify.com/brawlers/borderless/16000000.png](https://cdn.brawlify.com/brawlers/borderless/16000000.png)
 
 # Collaboration and Standards
 This repository is open to collaboration from anyone. Fixes, additions and updates to assets can be suggested anytime, but please compress your assets using [Tinypng](https://tinypng.com/) (or other similar compression software you choose) and follow rules for wording and standards for files you suggest, such as size, quality and appropriate IDs.
