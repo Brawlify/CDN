@@ -7,3 +7,6 @@ These icons have the black border cut to only display the brawler, without the s
 
 ## borders
 Regular icon that includes the border that's standard in profile icons. 200x200 in size or bigger, always a fixed size square
+
+## emoji
+Default pin for the corresponding brawler linked by their ID. Multiple sizes, smaller icons
