@@ -1,20 +1,5 @@
 / https://github.com/Brawlify/CDN
 
-# Temporary Redirects for missing ranks
-# Why? 404 is worse than an incorrect asset. This is a good balance until new ranks (tiers) are found & added.
-/ranks/regular/36.png /ranks/regular/35.png
-/ranks/regular/37.png /ranks/regular/35.png
-/ranks/regular/38.png /ranks/regular/35.png
-/ranks/regular/39.png /ranks/regular/35.png
-/ranks/regular/40.png /ranks/regular/35.png
-/ranks/regular/41.png /ranks/regular/35.png
-/ranks/regular/42.png /ranks/regular/35.png
-/ranks/regular/43.png /ranks/regular/35.png
-/ranks/regular/44.png /ranks/regular/35.png
-/ranks/regular/45.png /ranks/regular/35.png
-/ranks/regular/46.png /ranks/regular/35.png
-/ranks/regular/47.png /ranks/regular/35.png
-/ranks/regular/48.png /ranks/regular/35.png
-/ranks/regular/49.png /ranks/regular/35.png
-/ranks/regular/50.png /ranks/regular/35.png
-/ranks/regular/51.png /ranks/regular/35.png
+# Temporary Redirects for ranks replaced by tiers
+# Please replace your paths linking to /ranks/ by /tiers/ as this is the correct way!
+/ranks/regular/*.png /tiers/regular/*.png 301
