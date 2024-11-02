@@ -14,6 +14,10 @@ Regular icon that includes the border that's standard in profile icons. 200x200 
 
 Default pin for the corresponding brawler linked by their ID. Multiple sizes, smaller icons
 
+## model
+
+Model showcase of a brawler for the default look from the front
+
 ## portraits
 
 Large format portraits of brawlers linked by their ID. Multiple sizes, larger images
