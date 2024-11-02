@@ -2,4 +2,4 @@
 
 # Temporary Redirects for ranks replaced by tiers
 # Please replace your paths linking to /ranks/ by /tiers/ as this is the correct way!
-/ranks/regular/*.png /tiers/regular/*.png 301
+/ranks/regular/*.png /tiers/regular/:tier.png 301
