@@ -7,4 +7,4 @@ These icons contain the Star Powers internal icon without the border and aren't 
 
 ## borders
 
-These icons contain the Star Powers internal icon with the border and aren't in a standardized size
+These icons contain the Star Powers icons with the border and aren't in a standardized size
