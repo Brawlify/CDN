@@ -3,3 +3,31 @@
 # Temporary Redirects for ranks replaced by tiers
 # Please replace your paths linking to /ranks/ by /tiers/ as this is the correct way!
 /ranks/regular/*.png /tiers/regular/:splat.png 301
+
+
+# Missing profile icons
+# Unfortunately some icons are missing, so they are redirected to the Unknown.png icon
+# If you have the icon, please create a PR on https://github.com/Brawlify/CDN
+/profile-icons/regular/28000329.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000533.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000766.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000767.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000768.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000769.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000770.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000771.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000772.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000773.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000774.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000775.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000776.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000777.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000808.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000855.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000856.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000857.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000858.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000859.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000860.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000861.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28000862.png /profile-icons/regular/Unknown.png 302
