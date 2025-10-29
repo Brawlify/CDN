@@ -4,3 +4,7 @@ Star Powers for brawlers linked by their appropriate IDs you can find in [cards]
 
 ## borderless
 These icons contain the Star Powers internal icon without the border and aren't in a standardized size
+
+## borders
+
+These icons contain the Star Powers icons with the border and aren't in a standardized size
