@@ -1,0 +1,35 @@
+/boxes/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
+
+/brawlers/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
+
+/club-badges/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
+
+/gadgets/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
+
+/game-modes/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
+
+/gears/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
+
+/maps/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
+
+/profile-icons/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
+
+/ranked/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
+
+/records/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
+
+/star-powers/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
+
+/tiers/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
