@@ -18,54 +18,5 @@
 # Missing profile icons
 # Unfortunately some icons are missing, so they are redirected to the Unknown.png icon
 # If you have the icon, please create a PR on https://github.com/Brawlify/CDN
-/profile-icons/regular/28000329.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000533.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000766.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000767.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000768.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000769.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000770.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000771.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000772.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000773.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000774.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000775.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000776.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000777.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000808.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000978.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28000979.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001030.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001031.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001032.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001033.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001037.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001054.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001055.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001056.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001075.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001076.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001219.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001220.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001221.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001224.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001225.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001226.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001227.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001253.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001254.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001257.png /profile-icons/regular/Unknown.png 302
-/profile-icons/regular/28001285.png /profile-icons/regular/Unknown.png 302
 
 # Missing game modes - redirect to default (GemGrab/48000000)
-/game-modes/regular/48000001.png /game-modes/regular/48000000.png 302
-/game-modes/regular/48000004.png /game-modes/regular/48000000.png 302
-/game-modes/regular/48000012.png /game-modes/regular/48000000.png 302
-/game-modes/regular/48000013.png /game-modes/regular/48000000.png 302
-/game-modes/regular/48000068.png /game-modes/regular/48000000.png 302
-/game-modes/regular/48000069.png /game-modes/regular/48000000.png 302
-/game-modes/regular/48000070.png /game-modes/regular/48000000.png 302
-/game-modes/regular/48000071.png /game-modes/regular/48000000.png 302
-/game-modes/regular/48000075.png /game-modes/regular/48000000.png 302
-/game-modes/regular/48000077.png /game-modes/regular/48000000.png 302
-/game-modes/regular/48000079.png /game-modes/regular/48000000.png 302
