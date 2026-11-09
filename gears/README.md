@@ -1,4 +1,4 @@
-Gear icons linked by their IDs from [gear_boosts](https://api.brawlify.com/game/csv_logic/gear_boosts), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
+Gear icons linked by their IDs from [gear_boosts](https://api.brawlapi.com/game/csv_logic/gear_boosts), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
 
 # Standards
 

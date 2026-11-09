@@ -4,9 +4,12 @@ A public CDN with [Brawl Stars](https://supercell.com/en/games/brawlstars/) asse
 Any file in this repository is available on [cdn.brawlify.com](https://cdn.brawlify.com/) via [Cloudflare](https://www.cloudflare.com/network/) using [Pages](https://pages.cloudflare.com/) cached around the world. There is no traffic limit and no IP blocking. You can link directly, download, or fetch programmatically.
 
 # Usage
-This CDN is meant to be linked to programmatically with IDs taken from [in-game files](https://api.brawlify.com/game), for example [player_thumbnails](https://api.brawlify.com/game/csv_logic/player_thumbnails). For random assets, check the [official Fankit](https://fankit.supercell.com/).
+This CDN is meant to be linked to programmatically with IDs taken from [in-game files](https://api.brawlapi.com/game), for example [player_thumbnails](https://api.brawlapi.com/game/csv_logic/player_thumbnails). For random assets, check the [official Fankit](https://fankit.supercell.com/).
 
 It works best with [the official Brawl Stars API](https://developer.brawlstars.com/) and [BrawlAPI](https://brawlapi.com/), which both return the IDs needed to link to this CDN.
+
+## Documentation
+Every folder, the ID each one is named by, pixel sizes and examples are documented at [brawlapi.com/cdn](https://brawlapi.com/cdn/). A list of every file on the CDN is published as JSON at [brawlapi.com/cdn/manifest.json](https://brawlapi.com/cdn/manifest.json).
 
 ## Availability
 `/maps/regular/15000000.png` -> [cdn.brawlify.com/maps/regular/15000000.png](https://cdn.brawlify.com/maps/regular/15000000.png)

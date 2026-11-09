@@ -1,4 +1,4 @@
-Generated map visualizations using a customized *currently* private [bloodwiing/BrawlMapGen](https://github.com/bloodwiing/BrawlMapGen) update. Maps are linked by their IDs from [locations](https://api.brawlify.com/game/csv_logic/locations), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
+Generated map visualizations using a customized *currently* private [bloodwiing/BrawlMapGen](https://github.com/bloodwiing/BrawlMapGen) update. Maps are linked by their IDs from [locations](https://api.brawlapi.com/game/csv_logic/locations), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
 
 # Standards
 

@@ -1,4 +1,4 @@
-Game mode icons linked by their IDs from [game_mode_variations](https://api.brawlify.com/game/csv_logic/game_mode_variations), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
+Game mode icons linked by their IDs from [game_mode_variations](https://api.brawlapi.com/game/csv_logic/game_mode_variations), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
 
 # Standards
 

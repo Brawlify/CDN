@@ -1,4 +1,4 @@
-Player record icons linked by numbers counting up from 0. References in [records](https://api.brawlify.com/game/csv_logic/records), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
+Player record level icons linked by the level number, counting up from 0. The levels are listed in [record_levels](https://api.brawlapi.com/game/csv_logic/record_levels).
 
 # Standards
 
