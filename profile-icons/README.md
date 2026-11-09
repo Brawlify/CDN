@@ -1,4 +1,4 @@
-Player profile thumbnail icons linked by their IDs from [player_thumbnails](https://api.brawlify.com/game/csv_logic/player_thumbnails), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
+Player profile thumbnail icons linked by their IDs from [player_thumbnails](https://api.brawlapi.com/game/csv_logic/player_thumbnails), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
 
 # Standards
 

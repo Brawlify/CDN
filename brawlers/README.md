@@ -1,4 +1,4 @@
-Brawler assets in multiple formats, linked by brawler IDs from [characters](https://api.brawlify.com/game/csv_logic/characters), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
+Brawler assets in multiple formats, linked by brawler IDs from [characters](https://api.brawlapi.com/game/csv_logic/characters), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
 
 # Standards
 

@@ -1,4 +1,4 @@
-Ranked league icons linked by their IDs or names from [ranked_ranks](https://api.brawlify.com/game/csv_logic/ranked_ranks), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
+Ranked league icons linked by their IDs or names from [ranked_ranks](https://api.brawlapi.com/game/csv_logic/ranked_ranks), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
 
 # Standards
 

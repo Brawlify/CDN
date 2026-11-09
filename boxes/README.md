@@ -1,4 +1,4 @@
-Seasonal reward box icons, linked by numbers counting up. References in [trophy_season_reward_levels](https://api.brawlify.com/game/csv_logic/trophy_season_reward_levels).
+Seasonal reward box icons, linked by numbers counting up. References in [trophy_season_reward_levels](https://api.brawlapi.com/game/csv_logic/trophy_season_reward_levels).
 
 # Standards
 
